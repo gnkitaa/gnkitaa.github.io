@@ -7,12 +7,12 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Ankita Gupta
-description: I am an Applied Scientist in the India Machine Learning Team at Amazon. I work on varoius ML problems that address the business problem
+description: I am an Applied Scientist in the India Machine Learning Team at Amazon.
 github_username: ankitaiisc
 
 # Email and twitter are optional:
-email: ankitaswatigupta@gmail.com
-twitter_username: 
+email: gnkita@amazon.com, ankitaswatigupta@gmail.com
+twitter_username: Anki98765
 
 # Set this to true to get LaTeX math equation support
 use_math: true
