@@ -9,6 +9,8 @@
 <p align="justify"> I did my Master's from Indian Institute of Science, where I was very fortunate to work with Professor <a href="http://www.ee.iisc.ac.in/faculty/sastry/">P.S. Sastry</a> and Professor <a href="http://www.ee.iisc.ac.in/faculty/gurunath/">Gurunath Gurrala</a> on Instability Prediction in Power Systems using Deep Learning methods.</p>
 
 # Publications
+
+#### ML for Power Systems
 <ul>
   <li>An online power system stability monitoring system using convolutional neural networks.<br/>
       Ankita Gupta, Gurunath Gurrala, PS Sastry<br/>
@@ -27,4 +29,47 @@
       IEEE Transactions on Power Systems, 2018<br/>
       <a href="https://ieeexplore.ieee.org/abstract/document/8486644">  PDF</a></li>
 </ul>
+
+#### Computational Methods for Misinformation Detection
+<ul>
+  <li>An online power system stability monitoring system using convolutional neural networks.<br/>
+      Ankita Gupta, Gurunath Gurrala, PS Sastry<br/>
+      IEEE Transactions on Power Systems, 2018<br/>
+      <a href="https://ieeexplore.ieee.org/abstract/document/8486644">  PDF</a></li>
+  <li>Instability Prediction in Power Systems using Recurrent Neural Networks.<br/>
+      Ankita Gupta, Gurunath Gurrala, PS Sastry<br/>
+      IEEE Transactions on Power Systems, 2018<br/>
+      <a href="https://ieeexplore.ieee.org/abstract/document/8486644">  PDF</a></li>
+  <li>An online power system stability monitoring system using convolutional neural networks.<br/>
+      Ankita Gupta, Gurunath Gurrala, PS Sastry<br/>
+      IEEE Transactions on Power Systems, 2018<br/>
+      <a href="https://ieeexplore.ieee.org/abstract/document/8486644">  PDF</a></li>
+  <li>An online power system stability monitoring system using convolutional neural networks.<br/>
+      Ankita Gupta, Gurunath Gurrala, PS Sastry<br/>
+      IEEE Transactions on Power Systems, 2018<br/>
+      <a href="https://ieeexplore.ieee.org/abstract/document/8486644">  PDF</a></li>
+</ul>
+
+#### Demand Side Management
+<ul>
+  <li>An online power system stability monitoring system using convolutional neural networks.<br/>
+      Ankita Gupta, Gurunath Gurrala, PS Sastry<br/>
+      IEEE Transactions on Power Systems, 2018<br/>
+      <a href="https://ieeexplore.ieee.org/abstract/document/8486644">  PDF</a></li>
+  <li>Instability Prediction in Power Systems using Recurrent Neural Networks.<br/>
+      Ankita Gupta, Gurunath Gurrala, PS Sastry<br/>
+      IEEE Transactions on Power Systems, 2018<br/>
+      <a href="https://ieeexplore.ieee.org/abstract/document/8486644">  PDF</a></li>
+  <li>An online power system stability monitoring system using convolutional neural networks.<br/>
+      Ankita Gupta, Gurunath Gurrala, PS Sastry<br/>
+      IEEE Transactions on Power Systems, 2018<br/>
+      <a href="https://ieeexplore.ieee.org/abstract/document/8486644">  PDF</a></li>
+  <li>An online power system stability monitoring system using convolutional neural networks.<br/>
+      Ankita Gupta, Gurunath Gurrala, PS Sastry<br/>
+      IEEE Transactions on Power Systems, 2018<br/>
+      <a href="https://ieeexplore.ieee.org/abstract/document/8486644">  PDF</a></li>
+</ul>
+
+
+
 
