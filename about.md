@@ -8,6 +8,7 @@
 
 <p align="justify"> I did my Master's from Indian Institute of Science, where I was very fortunate to work with Professor <a href="http://www.ee.iisc.ac.in/faculty/sastry/">P.S. Sastry</a> and Professor <a href="http://www.ee.iisc.ac.in/faculty/gurunath/">Gurunath Gurrala</a> on Instability Prediction in Power Systems using Deep Learning methods.</p>
 
+
 # Publications
 
 #### Computational Methods for Misinformation Detection
