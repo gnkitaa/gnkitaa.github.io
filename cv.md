@@ -1,4 +1,1 @@
-
-# CV
-
-<a href="https://www.amazon.science/">Amazon, Bangalore</a>
+<a href="/images/CV_Ankita.pdf">Link</a>
