@@ -7,14 +7,13 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Ankita Gupta
-description: “Excellence, is not an act, but a habit. ” —Aristotle
+description: “Excellence, is not an act, but a habit. ” — Aristotle
 github_username: ankitaiisc
 
 # Email and twitter are optional:
-email: gnkita@amazon.com ankitaswatigupta@gmail.com
+email: ankitaswatigupta@gmail.com
 twitter_username: Anki98765
-linkedin_username: ankita-gupta-4b4571104
-googlescholar: https://scholar.google.com/citations?user=7nq1kBMAAAAJ&hl=en&oi=sra
+#linkedin_username: ankita-gupta-4b4571104
 
 # Set this to true to get LaTeX math equation support
 use_math: true
