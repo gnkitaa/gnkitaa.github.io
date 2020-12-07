@@ -13,7 +13,7 @@ github_username: ankitaiisc
 # Email and twitter are optional:
 email: gnkita@amazon.com ankitaswatigupta@gmail.com
 twitter_username: Anki98765
-linkedin: ankita-gupta-4b4571104
+linkedin_username: ankita-gupta-4b4571104
 googlescholar: https://scholar.google.com/citations?user=7nq1kBMAAAAJ&hl=en&oi=sra
 
 # Set this to true to get LaTeX math equation support
@@ -21,6 +21,10 @@ use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics: true
+
+header_pages:
+ - about.md
+ - publications.md
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
