@@ -10,18 +10,6 @@
 
 # Publications
 
-#### ML for Power Systems
-<ul>
-  <li>An online power system stability monitoring system using convolutional neural networks.<br/>
-      Ankita Gupta, Gurunath Gurrala, PS Sastry<br/>
-      IEEE Transactions on Power Systems, 2018<br/>
-      <a href="https://ieeexplore.ieee.org/abstract/document/8486644">  PDF</a></li>
-  <li>Instability Prediction in Power Systems using Recurrent Neural Networks.<br/>
-      Ankita Gupta, Gurunath Gurrala, Pidaparthy S Sastry<br/>
-      IJCAI, 2017<br/>
-      <a href="https://cps.iisc.ac.in/wp-content/uploads/2018/12/0249.pdf">  PDF</a></li>
-</ul>
-
 #### Computational Methods for Misinformation Detection
 <ul>
   <li>Ensemble Architecture for Fine-Tuned Propaganda Detection in News Articles.<br/>
@@ -38,12 +26,25 @@
       <a href="https://www.aclweb.org/anthology/S19-2189.pdf">  PDF</a></li>
 </ul>
 
-#### Cinical Inference
+#### Computational Methods for Cinical Inference
 <ul>
   <li>Knowledge Directed Multi-task Framework for Natural Language Inference in Clinical Domain.<br/>
       Sahil Chopra, Ankita Gupta, Anupama Kaushik<br/>
       Proceedings of the 18th BioNLP Workshop and Shared Task, 2019<br/>
       <a href="https://www.aclweb.org/anthology/W19-5052.pdf">  PDF</a></li>
+</ul>
+
+#### ML for Power Systems
+<ul>
+  <li>An online power system stability monitoring system using convolutional neural networks.<br/>
+      Ankita Gupta, Gurunath Gurrala, PS Sastry<br/>
+      IEEE Transactions on Power Systems, 2018<br/>
+      <a href="https://ieeexplore.ieee.org/abstract/document/8486644">  PDF</a></li>
+  <li>Instability Prediction in Power Systems using Recurrent Neural Networks.<br/>
+      Ankita Gupta, Gurunath Gurrala, Pidaparthy S Sastry<br/>
+      IJCAI, 2017<br/>
+      <a href="https://cps.iisc.ac.in/wp-content/uploads/2018/12/0249.pdf">  PDF</a></li>
+</ul>
 
 #### Demand Side Management
 <ul>
