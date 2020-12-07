@@ -1,5 +1,9 @@
 # Contextual Bandits : A Survey
 
+<p>
+<img src="./images/maxresdefault.jpg" width="500"/>
+</p>
+
 #### Problem Setting
 <ul>
     <li> We have <img src="https://render.githubusercontent.com/render/math?math=K"> bandits with unknown reward probabilities, <img src="https://render.githubusercontent.com/render/math?math=\{ P_{1}, P_{2}, P_{3},.....,P_{K}\}">. </li>
