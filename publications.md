@@ -36,7 +36,7 @@
       <a href="https://cps.iisc.ac.in/wp-content/uploads/2018/12/0249.pdf">  PDF</a></li>
 </ul>
 
-#### Demand Side Management
+### Demand Side Management
 <ul>
   <li>Optimal provision for enhanced consumer satisfaction and energy savings by an intelligent household energy management system.<br/>
       <b>Ankita Gupta</b>, Bhanu Pratap Singh, Rajesh Kumar<br/>
