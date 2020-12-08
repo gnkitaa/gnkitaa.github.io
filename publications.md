@@ -1,6 +1,6 @@
 # Publications
 
-#### Computational Methods for Misinformation Detection
+### Computational Methods for Misinformation Detection
 <ul>
   <li>Ensemble Architecture for Fine-Tuned Propaganda Detection in News Articles.<br/>
       Mayank Raj, Ajay Jaiswal, <b>Ankita Gupta</b>, Sudeep Kumar Sahoo, Vertika Srivastava, Yeon Hyang Kim<br/>
@@ -16,7 +16,7 @@
       <a href="https://www.aclweb.org/anthology/S19-2189.pdf">  PDF</a></li>
 </ul>
 
-#### Computational Methods for Cinical Inference
+### Computational Methods for Cinical Inference
 <ul>
   <li>Knowledge Directed Multi-task Framework for Natural Language Inference in Clinical Domain.<br/>
       Sahil Chopra, <b>Ankita Gupta</b>, Anupama Kaushik<br/>
@@ -24,7 +24,7 @@
       <a href="https://www.aclweb.org/anthology/W19-5052.pdf">  PDF</a></li>
 </ul>
 
-#### ML for Power Systems
+### ML for Power Systems
 <ul>
   <li>An online power system stability monitoring system using convolutional neural networks.<br/>
       <b>Ankita Gupta</b>, Gurunath Gurrala, PS Sastry<br/>
