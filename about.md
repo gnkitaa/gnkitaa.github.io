@@ -6,5 +6,5 @@
 
 <p align="justify"> Previosuly, I also worked in Advanced Technology Lab at <a href="https://research.samsung.com/sri-b">Samsung Research, Bangalore</a>. There, I worked on computational methods for detecting and analyzing misinformation on the web. Checkout my work in this area <a href="https://scholar.google.com/citations?user=7nq1kBMAAAAJ&hl=en">here!</a></p>
 
-<p align="justify"> I did my Master's from Indian Institute of Science, Bangalore, where I was very fortunate to work with Professor <a href="http://www.ee.iisc.ac.in/faculty/sastry/">P.S. Sastry</a> and Professor <a href="http://www.ee.iisc.ac.in/faculty/gurunath/">Gurunath Gurrala</a> on Instability Prediction in Power Systems using Deep Learning methods.</p>
+<p align="justify"> I did my Master's from Indian Institute of Science, Bangalore, where I was very fortunate to work with Professor <a href="http://www.ee.iisc.ac.in/faculty/sastry/">P. S. Sastry</a> and Professor <a href="http://www.ee.iisc.ac.in/faculty/gurunath/">Gurunath Gurrala</a> on Instability Prediction in Power Systems using deep learning methods.</p>
 
