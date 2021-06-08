@@ -8,4 +8,16 @@
 
 <p align="justify"> I did my Master's from <a href="https://www.iisc.ac.in/"> Indian Institute of Science, Bangalore </a>, where I was very fortunate to work with <a href="http://www.ee.iisc.ac.in/faculty/sastry/">Prof. P. S. Sastry</a> and <a href="http://www.ee.iisc.ac.in/faculty/gurunath/">Prof. Gurunath Gurrala</a> on Instability Prediction in Power Systems using deep learning methods.</p>
 
+## Recent News
+<table style="width:80%">
+  <tr>
+    <td>May 2021</td>
+    <td>Awarded <a href="https://www.cics.umass.edu/support"> W. Bruce Croft Graduate Scholarship in Computer Science</a></td>
+  </tr>
+  <tr>
+    <td>Jan  2021</td>
+    <td>Started my Ph.D. in Computer Science at <a href="https://www.umass.edu/">UMass Amherst</a></td>
+  </tr>
+</table>
+
 
