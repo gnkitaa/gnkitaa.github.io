@@ -11,6 +11,10 @@
 ## Recent News
 <table style="width:150%">
   <tr>
+    <td>July 2021</td>
+    <td>Awarded <a href="https://ghc.anitab.org/attend/scholarships/academics/"> Grace Hopper Celebration 2021 Student Scholarship</a></td>
+  </tr>
+  <tr>
     <td>June 2021</td>
     <td>Awarded Anuradha and Hanuma Kodavalla Graduate Scholarship in Computer Science</td>
   </tr>
