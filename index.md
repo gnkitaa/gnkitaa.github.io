@@ -12,7 +12,7 @@
 <table style="width:150%">
   <tr>
     <td>Oct 2021</td>
-    <td>Presented at <a href="https://tada2021.org/"> Text as Data Conference</a></td>
+    <td>Presented at <a href="https://tada2021.org/"> TADA 2021</a></td>
   </tr>
   <tr>
     <td>July 2021</td>
