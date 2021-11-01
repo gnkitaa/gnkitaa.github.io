@@ -11,6 +11,10 @@
 ## Recent News
 <table style="width:150%">
   <tr>
+    <td>Oct 2021</td>
+    <td>Presented at <a href="https://tada2021.org/"> Text as Data Conference</a></td>
+  </tr>
+  <tr>
     <td>July 2021</td>
     <td>Awarded <a href="https://ghc.anitab.org/attend/scholarships/academics/"> Grace Hopper Celebration 2021 Student Scholarship</a></td>
   </tr>
