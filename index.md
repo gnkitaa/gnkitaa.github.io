@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>June 2021</td>
-    <td>Awarded Anuradha and Hanuma Kodavalla Graduate Scholarship in Computer Science</td>
+    <td>Awarded <a href="https://www.cics.umass.edu/support"> Anuradha and Hanuma Kodavalla Graduate Scholarship in Computer Science</a></td>
   </tr>
   <tr>
     <td>May 2021</td>
