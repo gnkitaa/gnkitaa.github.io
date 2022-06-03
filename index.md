@@ -12,6 +12,10 @@
 <table style="width:150%">
   <tr>
     <td>Oct 2021</td>
+    <td>Started summer internship at <a href="https://research.ibm.com/teams/natural-language-processing"> IBM Watson </a> in Yorktown Heights, New York</td>
+  </tr>
+  <tr>
+    <td>Oct 2021</td>
     <td>Presented at <a href="https://tada2021.org/"> TADA 2021</a></td>
   </tr>
   <tr>
