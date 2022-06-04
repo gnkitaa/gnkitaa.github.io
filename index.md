@@ -11,7 +11,7 @@
 ## Recent News
 <table style="width:150%">
   <tr>
-    <td>Oct 2021</td>
+    <td>May 2022</td>
     <td>Started summer internship at <a href="https://research.ibm.com/teams/natural-language-processing"> IBM Watson </a> in Yorktown Heights, New York</td>
   </tr>
   <tr>
