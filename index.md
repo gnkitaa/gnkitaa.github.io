@@ -12,7 +12,7 @@
 <table style="width:150%">
   <tr>
     <td>Fall 2022</td>
-  	<td>I am co-organizing the <a href="https://umass-mlfl.github.io/">Machine Learning and Friends Lunch</a> at UMass Amherst with Wenlong Zhao and Dmitry Petrov. If you have speaker recommendations, fill them <a href="[https://umass-mlfl.github.io/](https://docs.google.com/forms/d/e/1FAIpQLSe2gqWTn4UXWqxbuLB1EPcuLBO7hP3aXh-ZluMvJsxL-hHI2Q/viewform)">here</a>!</td>
+  	<td>I am co-organizing the <a href="https://umass-mlfl.github.io/">Machine Learning and Friends Lunch</a> at UMass Amherst with Wenlong Zhao and Dmitry Petrov. If you have speaker recommendations, fill them <a href="https://forms.gle/njRJ3TUTQQTWZxgp7">here</a>!</td>
   </tr>
   <tr>
     <td>May 2022</td>
