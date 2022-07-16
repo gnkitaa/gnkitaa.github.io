@@ -11,6 +11,10 @@
 ## Recent News
 <table style="width:150%">
   <tr>
+    <td>Fall 2022</td>
+  	<td>I am co-organizing the Machine Learning and Friends Lunch at UMass Amherst with Wenlong Zhao and Dmitry Petrov. If you have speaker recommendations, fill them <a href="[https://research.ibm.com/teams/natural-language-processing](https://docs.google.com/forms/d/e/1FAIpQLSe2gqWTn4UXWqxbuLB1EPcuLBO7hP3aXh-ZluMvJsxL-hHI2Q/viewform)"> here </a>!</td>
+  </tr>
+  <tr>
     <td>May 2022</td>
     <td>Started summer internship at <a href="https://research.ibm.com/teams/natural-language-processing"> IBM Watson </a> in Yorktown Heights, New York</td>
   </tr>
